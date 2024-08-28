@@ -28,7 +28,7 @@ class HelloWorld{
         System.out.println(i);
         System.out.println(j);
         
-        i= i + 1
+        i= i + 1;
         System.out.println(i);
        
 
